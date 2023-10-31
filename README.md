@@ -4,11 +4,10 @@
 
 ### Задание 1
 
-![1-options](https://github.com/GromDrn/8-04-hw/tree/main/img/1-opt.jpg)
+![Настройки](https://github.com/GromDrn/8-04-hw/tree/main/img/1-.jpg)
 #
-![1-status](https://github.com/GromDrn/8-04-hw/blob/main/img/1-status.jpg)
-#
-![1-succes](https://github.com/GromDrn/8-04-hw/tree/main/img/1-succes.jpg)
+![Результат](https://github.com/GromDrn/8-04-hw/tree/main/img/1-succes.jpg)
+
 ---
 
 ### Задание 2
