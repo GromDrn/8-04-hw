@@ -6,9 +6,9 @@
 
 ![1-options](https://github.com/GromDrn/8-04-hw/tree/main/img/1-opt.jpg)
 #
-![1-succes](https://github.com/GromDrn/8-04-hw/tree/main/img/1-succes.jpg)
+![1-status](https://github.com/GromDrn/8-04-hw/blob/main/img/1-status.jpg)
 #
-![1-status](https://github.com/GromDrn/8-04-hw/tree/main/img/1-status.jpg)
+![1-succes](https://github.com/GromDrn/8-04-hw/tree/main/img/1-succes.jpg)
 ---
 
 ### Задание 2
