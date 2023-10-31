@@ -4,26 +4,26 @@
 
 ### Задание 1
 
-![1-options](/home/gromd/git/8-04-hw/img/1-opt.jpg)
-![1-succes](/home/gromd/git/8-04-hw/img/1-succes.jpg)
-![1-status](/home/gromd/git/8-04-hw/img/1-status.jpg)
+![1-options](https://github.com/GromDrn/8-04-hw/tree/main/1-opt.jpg)
+![1-succes](https://github.com/GromDrn/8-04-hw/tree/main/img/1-succes.jpg)
+![1-status](https://github.com/GromDrn/8-04-hw/tree/main/img/1-status.jpg)
 ---
 
 ### Задание 2
 
-[2-options](/home/gromd/git/8-04-hw/img/2-opt.jpg)
-[2-status](/home/gromd/git/8-04-hw/img/2-status.jpg)
+[2-options](https://github.com/GromDrn/8-04-hw/tree/main/img/2-opt.jpg)
+[2-status](https://github.com/GromDrn/8-04-hw/tree/main/img/2-status.jpg)
 
 ---
 
 ### Задание 3
 
-![3-options](/home/gromd/git/8-04-hw/img/3-opt.jpg)
-![3-status](/home/gromd/git/8-04-hw/img/3-status.jpg)
-![3-nexus](/home/gromd/git/8-04-hw/img/3-nexus.jpg)
+![3-options](https://github.com/GromDrn/8-04-hw/tree/main/img/3-opt.jpg)
+![3-status](https://github.com/GromDrn/8-04-hw/tree/main/img/3-status.jpg)
+![3-nexus](https://github.com/GromDrn/8-04-hw/tree/main/img/3-nexus.jpg)
 
 ### Задание 4
 
-![4-options](/home/gromd/git/8-04-hw/img/4-opt.jpg)
-![4-status](/home/gromd/git/8-04-hw/img/4-status.jpg)
-![4-nexus](/home/gromd/git/8-04-hw/img/4-nexus.jpg)
+![4-options](https://github.com/GromDrn/8-04-hw/tree/main/img/4-opt.jpg)
+![4-status](https://github.com/GromDrn/8-04-hw/tree/main/img/4-status.jpg)
+![4-nexus](https://github.com/GromDrn/8-04-hw/tree/main/img/4-nexus.jpg)
