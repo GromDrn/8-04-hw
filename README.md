@@ -11,8 +11,8 @@
 
 ### Задание 2
 
-[2-options](https://github.com/GromDrn/8-04-hw/tree/main/img/2-opt.jpg)
-[2-status](https://github.com/GromDrn/8-04-hw/tree/main/img/2-status.jpg)
+![2-options](https://github.com/GromDrn/8-04-hw/tree/main/img/2-opt.jpg)
+![2-status](https://github.com/GromDrn/8-04-hw/tree/main/img/2-status.jpg)
 
 ---
 
